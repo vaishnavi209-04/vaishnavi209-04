@@ -162,25 +162,26 @@ learning across:
 - **Oracle Cloud Infrastructure Certified AI Foundations Associate** — 2026
 - **Google Cloud Skill Boost** — 2025
 
+
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=vaishnavi209-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<a href="https://github.com/vaishnavi209-04">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi209-04&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=vaishnavi209-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
-</div>
+</a>
 
-<br>
+<a href="https://github.com/vaishnavi209-04">
 
-<div align="center">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi209-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=vaishnavi209-04&theme=tokyonight&hide_border=true"/>
+</a>
 
 </div>
 
@@ -190,7 +191,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi209
 
 <div align="center">
 
-[![Vaishnavi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi209-04&theme=tokyo-night&hide_border=true)](https://github.com/vaishnavi209-04)
+[![Vaishnavi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi209-04&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vaishnavi209-04)
 
 </div>
 
