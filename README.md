@@ -169,29 +169,31 @@ learning across:
 
 <div align="center">
 
-<a href="https://github.com/vaishnavi209-04">
+<img src="https://img.shields.io/github/followers/vaishnavi209-04?style=for-the-badge&logo=github&label=Followers" />
+<img src="https://img.shields.io/github/stars/vaishnavi209-04?style=for-the-badge&logo=github&label=Stars" />
+<img src="https://img.shields.io/github/last-commit/vaishnavi209-04/vaishnavi209-04?style=for-the-badge&logo=github&label=Profile%20Updated" />
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=vaishnavi209-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+</div>
 
-</a>
+<br>
 
-<a href="https://github.com/vaishnavi209-04">
+<div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi209-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</a>
+<img src="https://img.shields.io/github/commit-activity/y/vaishnavi209-04/vaishnavi209-04?style=for-the-badge&logo=github&label=Profile%20Commits" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 My GitHub Activity
 
 <div align="center">
 
-[![Vaishnavi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi209-04&theme=tokyo-night&hide_border=true&area=true)](https://github.com/vaishnavi209-04)
+<a href="https://github.com/vaishnavi209-04">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi209-04&theme=tokyo-night&hide_border=true&area=true" alt="Vaishnavi's GitHub Activity Graph"/>
+
+</a>
 
 </div>
 
