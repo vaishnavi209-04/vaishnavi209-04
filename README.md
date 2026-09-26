@@ -165,40 +165,6 @@ learning across:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/vaishnavi209-04?style=for-the-badge&logo=github&label=Followers" />
-<img src="https://img.shields.io/github/stars/vaishnavi209-04?style=for-the-badge&logo=github&label=Stars" />
-<img src="https://img.shields.io/github/last-commit/vaishnavi209-04/vaishnavi209-04?style=for-the-badge&logo=github&label=Profile%20Updated" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/github/commit-activity/y/vaishnavi209-04/vaishnavi209-04?style=for-the-badge&logo=github&label=Profile%20Commits" />
-
-</div>
-
----
-
-## 📈 My GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/vaishnavi209-04">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi209-04&theme=tokyo-night&hide_border=true&area=true" alt="Vaishnavi's GitHub Activity Graph"/>
-
-</a>
-
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 <div align="center">
